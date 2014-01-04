@@ -461,6 +461,7 @@
 				A029137E18787EC7008A4113 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A029137F18787EC7008A4113 /* Build configuration list for PBXNativeTarget "lession20140104Tests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				A029138118787EC7008A4113 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
