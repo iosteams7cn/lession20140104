@@ -21,6 +21,16 @@
 		A029136F18787EC7008A4113 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A029135118787EC7008A4113 /* UIKit.framework */; };
 		A029137718787EC7008A4113 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A029137518787EC7008A4113 /* InfoPlist.strings */; };
 		A029137918787EC7008A4113 /* lession20140104Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A029137818787EC7008A4113 /* lession20140104Tests.m */; };
+		A0A619311879C60800CAFCF4 /* glossy_button_blank_blue_rectangle.png in Resources */ = {isa = PBXBuildFile; fileRef = A0A619301879C60800CAFCF4 /* glossy_button_blank_blue_rectangle.png */; };
+		A0A619351879D2C200CAFCF4 /* Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A619341879D2C200CAFCF4 /* Employee.m */; };
+		A0A619381879D50D00CAFCF4 /* EmployeeOffice.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A619371879D50D00CAFCF4 /* EmployeeOffice.m */; };
+		A0A6193B1879D8C400CAFCF4 /* EmployeeSale.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A6193A1879D8C400CAFCF4 /* EmployeeSale.m */; };
+		A0A6193E1879D8DA00CAFCF4 /* EmployeeProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A6193D1879D8DA00CAFCF4 /* EmployeeProduct.m */; };
+		A0A619411879DDE800CAFCF4 /* EmployeeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A619401879DDE800CAFCF4 /* EmployeeManager.m */; };
+		A0A619461879E29200CAFCF4 /* architetto_tasto_1_115876.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0A619421879E29200CAFCF4 /* architetto_tasto_1_115876.jpg */; };
+		A0A619471879E29200CAFCF4 /* Gradient-5.png in Resources */ = {isa = PBXBuildFile; fileRef = A0A619431879E29200CAFCF4 /* Gradient-5.png */; };
+		A0A619481879E29200CAFCF4 /* orange-rectangle-button-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = A0A619441879E29200CAFCF4 /* orange-rectangle-button-hi.png */; };
+		A0A619491879E29200CAFCF4 /* rounded_rectangle_0525.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0A619451879E29200CAFCF4 /* rounded_rectangle_0525.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,21 @@
 		A029137418787EC7008A4113 /* lession20140104Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "lession20140104Tests-Info.plist"; sourceTree = "<group>"; };
 		A029137618787EC7008A4113 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A029137818787EC7008A4113 /* lession20140104Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lession20140104Tests.m; sourceTree = "<group>"; };
+		A0A619301879C60800CAFCF4 /* glossy_button_blank_blue_rectangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glossy_button_blank_blue_rectangle.png; sourceTree = "<group>"; };
+		A0A619331879D2C200CAFCF4 /* Employee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Employee.h; sourceTree = "<group>"; };
+		A0A619341879D2C200CAFCF4 /* Employee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Employee.m; sourceTree = "<group>"; };
+		A0A619361879D50D00CAFCF4 /* EmployeeOffice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeeOffice.h; sourceTree = "<group>"; };
+		A0A619371879D50D00CAFCF4 /* EmployeeOffice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmployeeOffice.m; sourceTree = "<group>"; };
+		A0A619391879D8C400CAFCF4 /* EmployeeSale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeeSale.h; sourceTree = "<group>"; };
+		A0A6193A1879D8C400CAFCF4 /* EmployeeSale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmployeeSale.m; sourceTree = "<group>"; };
+		A0A6193C1879D8DA00CAFCF4 /* EmployeeProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeeProduct.h; sourceTree = "<group>"; };
+		A0A6193D1879D8DA00CAFCF4 /* EmployeeProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmployeeProduct.m; sourceTree = "<group>"; };
+		A0A6193F1879DDE800CAFCF4 /* EmployeeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeeManager.h; sourceTree = "<group>"; };
+		A0A619401879DDE800CAFCF4 /* EmployeeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmployeeManager.m; sourceTree = "<group>"; };
+		A0A619421879E29200CAFCF4 /* architetto_tasto_1_115876.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = architetto_tasto_1_115876.jpg; sourceTree = "<group>"; };
+		A0A619431879E29200CAFCF4 /* Gradient-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gradient-5.png"; sourceTree = "<group>"; };
+		A0A619441879E29200CAFCF4 /* orange-rectangle-button-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange-rectangle-button-hi.png"; sourceTree = "<group>"; };
+		A0A619451879E29200CAFCF4 /* rounded_rectangle_0525.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rounded_rectangle_0525.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +137,8 @@
 		A029135318787EC7008A4113 /* lession20140104 */ = {
 			isa = PBXGroup;
 			children = (
+				A0A619321879D16B00CAFCF4 /* Model */,
+				A0A6192F1879C33400CAFCF4 /* Res */,
 				A029135C18787EC7008A4113 /* lessionAppDelegate.h */,
 				A029135D18787EC7008A4113 /* lessionAppDelegate.m */,
 				A029135F18787EC7008A4113 /* Main.storyboard */,
@@ -150,6 +177,35 @@
 				A029137518787EC7008A4113 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A0A6192F1879C33400CAFCF4 /* Res */ = {
+			isa = PBXGroup;
+			children = (
+				A0A619421879E29200CAFCF4 /* architetto_tasto_1_115876.jpg */,
+				A0A619431879E29200CAFCF4 /* Gradient-5.png */,
+				A0A619441879E29200CAFCF4 /* orange-rectangle-button-hi.png */,
+				A0A619451879E29200CAFCF4 /* rounded_rectangle_0525.jpg */,
+				A0A619301879C60800CAFCF4 /* glossy_button_blank_blue_rectangle.png */,
+			);
+			name = Res;
+			sourceTree = "<group>";
+		};
+		A0A619321879D16B00CAFCF4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A0A619331879D2C200CAFCF4 /* Employee.h */,
+				A0A619341879D2C200CAFCF4 /* Employee.m */,
+				A0A619361879D50D00CAFCF4 /* EmployeeOffice.h */,
+				A0A619371879D50D00CAFCF4 /* EmployeeOffice.m */,
+				A0A619391879D8C400CAFCF4 /* EmployeeSale.h */,
+				A0A6193A1879D8C400CAFCF4 /* EmployeeSale.m */,
+				A0A6193C1879D8DA00CAFCF4 /* EmployeeProduct.h */,
+				A0A6193D1879D8DA00CAFCF4 /* EmployeeProduct.m */,
+				A0A6193F1879DDE800CAFCF4 /* EmployeeManager.h */,
+				A0A619401879DDE800CAFCF4 /* EmployeeManager.m */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +285,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0A619461879E29200CAFCF4 /* architetto_tasto_1_115876.jpg in Resources */,
+				A0A619491879E29200CAFCF4 /* rounded_rectangle_0525.jpg in Resources */,
+				A0A619481879E29200CAFCF4 /* orange-rectangle-button-hi.png in Resources */,
+				A0A619471879E29200CAFCF4 /* Gradient-5.png in Resources */,
 				A029136618787EC7008A4113 /* Images.xcassets in Resources */,
 				A029135818787EC7008A4113 /* InfoPlist.strings in Resources */,
 				A029136118787EC7008A4113 /* Main.storyboard in Resources */,
+				A0A619311879C60800CAFCF4 /* glossy_button_blank_blue_rectangle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,9 +311,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0A6193E1879D8DA00CAFCF4 /* EmployeeProduct.m in Sources */,
+				A0A6193B1879D8C400CAFCF4 /* EmployeeSale.m in Sources */,
 				A029136418787EC7008A4113 /* lessionViewController.m in Sources */,
+				A0A619351879D2C200CAFCF4 /* Employee.m in Sources */,
+				A0A619381879D50D00CAFCF4 /* EmployeeOffice.m in Sources */,
 				A029135E18787EC7008A4113 /* lessionAppDelegate.m in Sources */,
 				A029135A18787EC7008A4113 /* main.m in Sources */,
+				A0A619411879DDE800CAFCF4 /* EmployeeManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

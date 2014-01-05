@@ -8,6 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface lessionViewController : UIViewController
+@interface lessionViewController : UIViewController{
+
+    IBOutlet UITextField *txtname;
+    IBOutlet UITextField *txtaddress;
+    IBOutlet UITextField *txtsalary;
+    
+    IBOutlet UITextField *txtparameter;
+    IBOutlet UITextField *txtemail;
+    IBOutlet UITextField *txtdob;
+    IBOutlet UITextField *txttel;
+    
+}
 
 @end

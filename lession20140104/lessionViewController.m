@@ -14,11 +14,32 @@
 
 @implementation lessionViewController
 
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
 }
+
+- (IBAction)initEmployee:(id)sender {
+    NSLog(@"sdfasdf");
+    
+    
+}
+- (IBAction)addNewEmployee:(id)sender {
+}
+
+- (IBAction)calsalary:(id)sender {
+    NSLog(txtparameter.text);
+    
+}
+
+
+
+
+
+
 
 - (void)didReceiveMemoryWarning
 {
